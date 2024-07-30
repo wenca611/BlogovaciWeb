@@ -18,3 +18,11 @@ Tento projekt je blogovací web vytvořený pomocí C# a .NET 8.0, s využitím 
 - **Frontend**: HTML, CSS, JavaScript
 - **Databáze**: Microsoft SQL Server (MSSQL)
 - **Autentizace**: Implementováno pomocí ASP.NET Identity pro správu uživatelů a jejich přihlášení
+
+## Ukázky webu:
+Blogy:
+# ![Blog](images/blog.png)
+Vytvoření blogu:
+# ![Blog](images/vytvoreni_blogu.png)
+Editace blogu:
+# ![Blog](images/editace_blogu.png)
