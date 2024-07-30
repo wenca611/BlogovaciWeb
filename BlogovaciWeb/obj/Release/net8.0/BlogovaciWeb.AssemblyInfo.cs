@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-BlogovaciWeb-881e84db-6430-402f-8c6f-3e1158b25960")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlogovaciWeb")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc20809ad87612837342dce7e1297d3fff9414d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlogovaciWeb")]
